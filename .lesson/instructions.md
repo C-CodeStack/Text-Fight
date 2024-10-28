@@ -43,4 +43,4 @@ function roll(min, max) {
 Repeat step 7-11 until someone is dead
 
 12. If player died log "The monster killed you, you lose!"
-13. If the monster died log "You killed th emonster, you win!"
+13. If the monster died log "You killed the monster, you win!"
